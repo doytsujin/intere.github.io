@@ -1,0 +1,431 @@
+{
+  "basics": {
+    "name": "Eric Internicola",
+    "label": "Senior iOS Developer at The Washington Post",
+    "phone": "",
+    "website": "",
+    "summary": "Software Engineering and Architecture with a focus on Cloud technologies and computing with more than 10 years experience. Involved in all aspects of large scale projects from design to implementation and through maintenance. Effective experience in numerous roles within projects including Technical Lead and Scrum Master.  \"Test Infected\" and well versed in Java, Objective-C, AngularJS, Ruby on Rails and iOS.  Experience with numerous frameworks in numerous languages.\n\nFormerly Co-Organizer of the Rocky Mountain AngularJS Meetup Group: http://www.meetup.com/RockyMountainAngularJS/\n\nSpecialties:\nSoftware Architecture and Development, Large scale applications.\n\nRecent Experience:\n* Groovy (data imports, testing with Spock)\n* Swift, Objective-C (iOS), Cocoapods, various frameworks\n* Ruby on Rails, RSpec, Sidekiq\n* UI: Angular JS, Jasmine + Karma, Javascript, Bootstrap, other various JS libraries (REST client stack)\n* Server: Spring MVC + Jackson, Spring Data, MongoDB (REST Service stack), Node.js\n* Dev-Ops (Vagrant, Chef, AWS, Bamboo, Jenkins, Maven, Gulp, Grunt, S3, Node.js, nginx, shell scripting)\n\nOther Experience: \n* Front end: AngularJS, GWT, Eclipse RCP, Swing, JSP, Servlet, Javascript\n* Back end: Jackson, JMS, JAX-B, JAX-RPC WS, Hibernate\n* JEE Servers: Tomcat, Weblogic, JBoss\n* Scripting: Bash, Perl, Expect\n* Databases: MongoDB, PostgreSQL, Oracle, Sybase, MS SQL Server\n* Operating Systems: Linux, OS-X, Solaris, Windows\n* Tools: Git, Maven, Ant, Make, Eclipse, Netbeans, Subversion, Clearcase, Starteam, CVS",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Autotask",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2001-01",
+      "summary": "Developed CRM software using Microsoft Visual Basic and ASP",
+      "highlights": [],
+      "endDate": "2003-01"
+    },
+    {
+      "company": "IA Systems",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2000-01",
+      "summary": "Built loan origination software using Microsoft Visual C++, Visual Basic and ASP.",
+      "highlights": [],
+      "endDate": "2001-01"
+    },
+    {
+      "company": "The Washington Post",
+      "position": "Senior iOS Developer",
+      "website": "",
+      "startDate": "2016-02-01",
+      "summary": "Senior iOS Developer for the Washington Post.  Integrating Fastlane into several Swift-based iOS Products.  Swift Development for various iOS apps.",
+      "highlights": []
+    },
+    {
+      "company": "MobileDay",
+      "position": "Sr. Software Engineer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "summary": "Sr. iOS Developer at MobileDay.  As part of a team of 4 developers, completely refreshed the entire user interface and converted the entire codebase (including Unit Tests) from Objective-C to Swift.  Researched numerous modern tools, patterns and processes and successfully proposed that we adopt IBDesignable Controls, Fastlane as well as various other productivity tools.\n\nSuccessfully incorporated Fastlane integration into the build process to automate building, testing and deploying test builds and production builds to HockeyApp, TestFlight and iTunes.",
+      "highlights": [],
+      "endDate": "2016-02-01"
+    },
+    {
+      "company": "SportsLabs - A Silver Chalice Company",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2013-04-01",
+      "summary": "As a Senior Software Engineer, I've personally been involved in half a dozen product launches (inception, design, development, launch and maintenance).  Member of the Platform Services Team (most recent) and before that, a member of the Official Athletic Site Team (prior 2 years).  In additional to my development and dev-ops tasks, I am also involved in team and peer mentoring (reviews, paired programming, etc), driving architecture and design, defining development best practices, managing (including integration of) code bases, build infrastructure, integration and deployment (including release deployment) of productions.\n\nSportsLabs is building the next generation of sports. We work with top brands and content rights holders in college and pro sports to create real digital businesses by using our proprietary Advanced Media Platform (AMP for Sports v3.0) to serve fans on all devices.",
+      "highlights": [],
+      "endDate": "2015-08-01"
+    },
+    {
+      "company": "Brothers Magoo, LLC",
+      "position": "Co Founder / Software Architect / Engineer",
+      "website": "",
+      "startDate": "2012-08-01",
+      "summary": "As a side project, I've been working with some very talented people building Mobile Applications.  Lots of interesting challenges, including the non-technical distributed part-time team.  I've gotten to design and build some very interesting technology using MongoDB, Spring MVC, Spring Data, Spring Batch, AngularJS and Objective-C (for iOS).",
+      "highlights": []
+    },
+    {
+      "company": "VMware",
+      "position": "Senior Consultant",
+      "website": "",
+      "startDate": "2012-04-01",
+      "summary": "Professional Services Organization: vFabric",
+      "highlights": [],
+      "endDate": "2013-04-01"
+    },
+    {
+      "company": "Fraser Valley Recreation",
+      "position": "Diving Coach / Rock Wall Trainer",
+      "website": "",
+      "startDate": "2011-01-01",
+      "summary": "* Coach springboard diving courses\n* Teach/Certify belaying",
+      "highlights": [],
+      "endDate": "2013-03-01"
+    },
+    {
+      "company": "McKesson",
+      "position": "Sr. Software Engineer",
+      "website": "",
+      "startDate": "2010-10-01",
+      "summary": "Scrum Master,\nJava: GWT, JAXB, JMS, Hibernate, Spring",
+      "highlights": [],
+      "endDate": "2012-04-01"
+    },
+    {
+      "company": "Winter Park",
+      "position": "Ski/Ride Instructor",
+      "website": "",
+      "startDate": "2009-11-01",
+      "summary": "PSIA certified, Part time Ski/Snowboarding/Snow Bike Instructor at Winter Park.",
+      "highlights": [],
+      "endDate": "2014-04-01"
+    },
+    {
+      "company": "Raytheon",
+      "position": "Sr. Software Engineer I",
+      "website": "",
+      "startDate": "2008-03-01",
+      "summary": "Development and Integration of Web Services, JMS queues/topics and Eclipse RCP Based GUIs.\nSolaris 10 Administration, Red Hat Administration",
+      "highlights": [],
+      "endDate": "2010-10-01"
+    },
+    {
+      "company": "Woods Valley Ski Area",
+      "position": "Ski Instructor",
+      "website": "",
+      "startDate": "2006-12-01",
+      "summary": "Part time Ski Instructor at Woods Valley Ski Area.",
+      "highlights": [],
+      "endDate": "2008-03-01"
+    },
+    {
+      "company": "BAE Systems",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2005-04-01",
+      "summary": "Implemented Web Based and Desktop Based Java Mapping software (using WMS protocol)",
+      "highlights": [],
+      "endDate": "2008-01"
+    },
+    {
+      "company": "EIT Security",
+      "position": "Software/Network Engineer",
+      "website": "",
+      "startDate": "2003-06-01",
+      "summary": "Built, deployed and managed Redhat based IDS, Firewalls, NMS solutions for various customers.",
+      "highlights": [],
+      "endDate": "2005-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Westmoreland High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "1995-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1998-01-01"
+    },
+    {
+      "institution": "Rensselaer Polytechnic Institute",
+      "area": "",
+      "studyType": "BS",
+      "startDate": "1998-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2003-01-01"
+    },
+    {
+      "institution": "Oneonta High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "1994-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1995-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CORBA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular JS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sring MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Data",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Swift",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Objective-C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grunt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maven",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JBoss Application Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object Oriented Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JUnit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tomcat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mockito",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GWT",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Karma",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Weblogic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vagrant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CVS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RSpec",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript Libraries",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScriptMVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Swing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": null
+    }
+  ],
+  "references": []
+}

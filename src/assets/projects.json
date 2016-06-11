@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Scroggle",
+    "category": "iOS",
+    "technology": [ "Swift", "SpriteKit", "SceneKit", "Cocoapods", "Fastlane", "Fabric", "Analytics", "Core Data" ],
+    "images": [
+      "http://a2.mzstatic.com/us/r30/Purple69/v4/6f/e7/25/6fe725c7-4e3c-505e-2ee7-f1c4c6d2e3e0/screen640x640.jpeg",
+      "http://a4.mzstatic.com/us/r30/Purple69/v4/84/50/dc/8450dc1d-e3fa-0dec-84d7-bb64e7ceb654/screen640x640.jpeg",
+      "http://a2.mzstatic.com/us/r30/Purple69/v4/0c/47/f6/0c47f6a4-dbe9-0d38-eb31-6c2398b68149/screen640x640.jpeg",
+      "http://a1.mzstatic.com/us/r30/Purple69/v4/d2/ff/53/d2ff53e9-2e20-b5e3-b732-b597d4052c50/screen640x640.jpeg",
+      "http://a2.mzstatic.com/us/r30/Purple69/v4/4c/f3/c6/4cf3c641-38ed-bda1-d42c-408ed098b376/screen640x640.jpeg"
+    ],
+    "link": "https://itunes.apple.com/us/app/scroggle/id994899163?mt=8",
+    "description": "A word-game (based on Boggle) that is currently closed-source.  It is available in the app store.  I have plans to continue developing this app providing real-time multiplayer, various challenges (levels) amongst other things."
+  },
+  {
+    "name": "Scroggle Support",
+    "category": "Web",
+    "technology": [ "Angular", "Bootstrap 3", "Gulp", "Bower", "SASS", "Coffeescript" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/scroggle-support/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/scroggle-support/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/scroggle-support/master/screenshots/Screenshot3.png",
+      "https://raw.githubusercontent.com/intere/scroggle-support/master/screenshots/Screenshot4.png"
+    ],
+    "link": "https://github.com/intere/scroggle-support",
+    "description": "A Support Page that I built for Scroggle.  It's hosted on github.io so that it's accessible from within the Scroggle App."
+  },
+  {
+    "name": "Retro Skate",
+    "category": "tvOS",
+    "technology": [ "Swift", "SpriteKit" ],
+    "images": [
+      "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot1.png",
+      "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot2.png",
+      "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot3.png",
+      "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot4.png",
+      "https://github.com/intere/retro-skate-tvOS/raw/master/assets/screenshot5.png"
+    ],
+    "link": "https://github.com/intere/retro-skate-tvOS/",
+    "description": "My first SpriteKit / tvOS Game.  This app is not released in the app store (it was built as part of a course I took for doing tvOS Development), but I've installed it and played it many times on my Apple TV."
+  },
+  {
+    "name": "Popular Movies",
+    "category": "tvOS",
+    "technology": [ "Swift", "NSURLSession" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/tvOS-PopularMovies/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/tvOS-PopularMovies/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/tvOS-PopularMovies/master/screenshots/Screenshot3.png"
+    ],
+    "link": "https://github.com/intere/tvOS-PopularMovies/",
+    "description": "An application that I built for my tvOS Course.  It pulls some JSON data from tmbg.org and builds a TV Interface.  It's not a very full featured app, but it demonstrates basic tvOS capabilities"
+  },
+  {
+    "name": "Piste+Off",
+    "category": "iOS",
+    "technology": [ "Objective-C", "Swift", "Fastlane", "Fabric", "Analytics", "CoreLocation", "Core Data" ],
+    "images": [
+      "http://a4.mzstatic.com/us/r30/Purple3/v4/26/94/e7/2694e76e-3360-b0cb-f4f2-b9aa61cc63c7/screen568x568.jpeg",
+      "http://a1.mzstatic.com/us/r30/Purple5/v4/3c/84/0d/3c840dd0-c0b7-333e-23c3-8cd1981711f6/screen568x568.jpeg",
+      "http://a3.mzstatic.com/us/r30/Purple3/v4/3c/56/69/3c5669c6-14dd-675d-0532-23d7014d422a/screen568x568.jpeg",
+      "http://a1.mzstatic.com/us/r30/Purple3/v4/8e/bb/05/8ebb0516-bf6a-97c3-dcb5-915588cd8273/screen568x568.jpeg",
+      "http://a4.mzstatic.com/us/r30/Purple3/v4/da/04/60/da04605f-67aa-c2ef-a899-e1a17a01cdb9/screen568x568.jpeg"
+    ],
+    "link": "https://itunes.apple.com/us/app/piste+off!/id901052933?mt=8",
+    "description": "The first App I deployed to the App Store.  Originally written in Objective-C, then Rewritten in Swift.  I haven't yet deployed the latest version, it's coming.  It's also worth noting that I've built a back end (Java/SpringMVC/Mongo) and a CMS (Angular + Bootstrap 2)"
+  },
+  {
+    "name": "Breaker",
+    "category": "iOS",
+    "technology": [ "Swift", "SceneKit" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/breaker/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/breaker/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/breaker/master/screenshots/Screenshot3.png",
+      "https://raw.githubusercontent.com/intere/breaker/master/screenshots/Screenshot4.png"
+    ],
+    "link": "https://github.com/intere/breaker",
+    "description": "A SceneKit game that I build as an exercise of a book I've read: 3D iOS Games by Tutorials.  It's a 'Block Breaker' game."
+  },
+  {
+    "name": "Shooter",
+    "category": "iOS",
+    "technology": [ "Swift", "SpriteKit" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/Shooter/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/Shooter/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/Shooter/master/screenshots/Screenshot3.png",
+      "https://raw.githubusercontent.com/intere/Shooter/master/screenshots/Screenshot4.png",
+      "https://raw.githubusercontent.com/intere/Shooter/master/screenshots/Screenshot5.png"
+    ],
+    "link": "https://github.com/intere/Shooter/",
+    "description": "A SpriteKit Game that I built for a Udemy course I am working on for building SpriteKit Games.  I've created my own assets (via rendering images from Blender Models) and turned it into a very simple, yet fun game"
+  },
+  {
+    "name": "Sewer Brothers",
+    "category": "iOS",
+    "technology": [ "Objective-C", "SpriteKit" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/SewerBrothers/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/SewerBrothers/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/SewerBrothers/master/screenshots/Screenshot3.png",
+      "https://raw.githubusercontent.com/intere/SewerBrothers/master/screenshots/Screenshot4.png",
+      "https://raw.githubusercontent.com/intere/SewerBrothers/master/screenshots/Screenshot5.png"
+    ],
+    "link": "https://github.com/intere/SewerBrothers",
+    "description": "My first SpriteKit game, I built this as part of a book titled: 'Learn Sprite Kit for iOS Game Development'.  This was my introduction to SpriteKit and Game Programming."
+  },
+  {
+    "name": "Deviant Browser",
+    "category": "iOS",
+    "technology": [ "Swift", "Cocoapods" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/DeviantArtBrowser/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/DeviantArtBrowser/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/DeviantArtBrowser/master/screenshots/Screenshot3.png",
+      "https://raw.githubusercontent.com/intere/DeviantArtBrowser/master/screenshots/Screenshot4.png"
+    ],
+    "link": "https://github.com/intere/DeviantArtBrowser",
+    "description": "Quick POC project for me to gain a better understanding of AutoLayout and dynamic dimensions of UITableViewCells"
+  },
+  {
+    "name": "Boggle RCP",
+    "category": "Desktop Java",
+    "technology": [ "Java", "Eclipse RCP", "JAXB" ],
+    "images": [
+      "https://github.com/intere/boggle-rcp/raw/master/screenshots/new_game_wizard.png",
+      "https://github.com/intere/boggle-rcp/raw/master/screenshots/new_game_choose_players.png",
+      "https://github.com/intere/boggle-rcp/raw/master/screenshots/new_game.png",
+      "https://github.com/intere/boggle-rcp/raw/master/screenshots/game_over.png"
+    ],
+    "link": "https://github.com/intere/boggle-rcp/",
+    "description": "The second time I authored a Boggle-based game.  This one is based on Eclipse RCP, has the ability to run as a server, and has computer players that you can play against."
+  },
+  {
+    "name": "Boggle",
+    "category": "Desktop Java",
+    "technology": [ "Java", "Swing", "Maven", "Server / Client" ],
+    "images": [
+      "https://raw.githubusercontent.com/intere/boggle/master/screenshots/Screenshot1.png",
+      "https://raw.githubusercontent.com/intere/boggle/master/screenshots/Screenshot2.png",
+      "https://raw.githubusercontent.com/intere/boggle/master/screenshots/Screenshot3.png"
+    ],
+    "link": "https://github.com/intere/boggle/",
+    "description": "My first Boggle Game.  I built it so that I could play head-to-head Boggle against an opponent from 2 different machines.  It's a server/client architecture and very basic as far as gameplay goes."
+  }
+]

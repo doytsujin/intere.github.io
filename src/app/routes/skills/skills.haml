@@ -1,0 +1,13 @@
+#skills.wrap.background2
+  .container
+    .row
+      .col-lg-6.col-lg-offset-3
+.container
+  .row.centered.mt.mb
+    .col-lg-12
+      %h2
+        SKILLS
+      %div
+        .row.centered.mt.mb
+          .col-sm-3{ "ng-repeat": "skill in resume.skills", "class": "skill_parent" }
+            .skill{ "ng-bind": "skill.name" }

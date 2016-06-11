@@ -1,0 +1,5 @@
+%div.col-lg-6.col-md-6.col-sm-6
+  %h2{"ng-bind": "project.name"}
+  %a{"ng-href": decodeURI("%7B%7B") + "'#/project/' + project.name" + decodeURI("%7D%7D")}
+    %img.responsive{"ng-src": decodeURI("%7B%7B") + "project.images[0]" + decodeURI("%7D%7D")}
+    

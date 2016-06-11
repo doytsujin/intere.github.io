@@ -1,0 +1,26 @@
+-# Header Area
+#project.wrap.code
+  .container
+    .row
+      .col-lg-6.col-lg-offset-3
+.container
+  .row.centered.mt.mb
+    .col-lg-12
+      %h2{"ng-bind": "selectedProject.name"}
+
+-# Carousel
+%uib-carousel{"interval": "5000"}
+  %uib-slide{"ng-repeat": "image in selectedProject.images", "ng-animate": "false"}
+    .centered
+      %img.bounded{"ng-src": decodeURI("%7B%7B") + "image" + decodeURI("%7D%7D")}
+
+-# Project Info
+%div.col-lg-12.col-md-12.col-sm-12.gallery
+  %h4
+    Platform:
+    %span{"ng-bind": "selectedProject.category"}
+  %p{"ng-bind": "selectedProject.description"}
+  %div.tech-stack
+    %h4
+      Technologies Used
+    %div.tech{"ng-repeat": "tech in selectedProject.technology", "ng-bind": "tech"}

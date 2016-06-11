@@ -1,0 +1,11 @@
+#projects.wrap.code
+  .container
+    .row
+      .col-lg-6.col-lg-offset-3
+.container
+  .row.centered.mt.mb
+    .col-lg-12
+      %h2
+        PROJECTS
+      %div{"ng-repeat": "project in myProjects"}
+        %project{"project": "project", "index": "$index", "autoscroll": "true"}

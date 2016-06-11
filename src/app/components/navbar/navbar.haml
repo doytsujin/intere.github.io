@@ -1,0 +1,20 @@
+.navbar.navbar-default.navbar-fixed-top.transparent_black{role: "navigation"}
+  .container
+    .navbar-header
+      %button.navbar-toggle{"ng-click": "isCollapsed = !isCollapsed", "ng-init": "isCollapsed = true"}
+        %span.sr-only Toggle navigation
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+        %span.icon-bar
+      %a.navbar-brand{href: "#/", "ng-bind": "brand"}
+    .navbar-collapse{collapse: "isCollapsed"}
+      %ul.nav.navbar-nav.navbar-right
+        %li{"ng-class": "isSelected('home') ? 'active' : ''" }
+          %a{href: "#" } Home
+        %li{"ng-class": "isSelected('about') ? 'active' : ''" }
+          %a{href: "#/about" } About
+        %li{"ng-class": "isSelected('projects') ? 'active' : ''" }
+          %a{href: "#/projects" } Projects
+        %li{"ng-class": "isSelected('skills') ? 'active' : ''" }
+          %a{href: "#/skills" } Skills

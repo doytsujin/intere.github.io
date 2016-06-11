@@ -1,0 +1,9 @@
+
+.code { background: url(/assets/images/code.png) no-repeat center top !important; }
+
+.disable-animations {
+  // Use this for transitions
+  &.ng-enter, &.ng-leave, &.ng-animate { -webkit-transition: none !important; transition: none !important; }
+  // Use this for keyframe animations
+  &.ng-animate { -webkit-animation: none 0s; animation: none 0s; }
+}
