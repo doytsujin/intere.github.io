@@ -12,10 +12,11 @@
     .col-lg-8.col-lg-offset-2
       %h3
         Work Summary
-    .row{"ng-repeat": "job in work"}
-      .centered.mt.mb
-        %h4{"ng-bind": "job.company"}
-        %span{"ng-bind": "job.startDate"}
-        %span{"ng-bind": "' - '"}
-        %span{"ng-bind": "job.endDate || 'current'"}
-        %div{"ng-bind": "job.summary"}
+  .job.row{"ng-repeat": "job in work"}
+    .col-lg-8.col-lg-offset-2
+      %h2{"ng-bind": "job.position"}
+      %h4{"ng-bind": "job.company"}
+      %span{"ng-bind": "job.startDate"}
+      %span{"ng-bind": "' - '"}
+      %span{"ng-bind": "job.endDate || 'current'"}
+      %div{"ng-bind": "job.summary"}

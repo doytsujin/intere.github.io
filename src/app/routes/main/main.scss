@@ -3,5 +3,9 @@
 
 #header {
   h1 { color: $textColorLight; padding-top: 10px; padding-bottom: 20px; letter-spacing: 4px; font-size: 80px; font-weight: bold; }
-  h4 { color: $textColorLight !important; font-weight: 400;  }
+  h4 { color: $textColorLight !important; font-weight: 400; font-size: 18px; }
+
+  @media screen and (max-width: 550px) {
+      h1 { font-size: 60px; }
+  }
 }

@@ -5,9 +5,11 @@
 .container
   .row.centered.mt.mb
     .col-lg-12
-      %h2
-        SKILLS
+      %center
+        %h2
+          SKILLS
       %div
         .row.centered.mt.mb
           .col-sm-3{ "ng-repeat": "skill in resume.skills", "class": "skill_parent" }
-            .skill{ "ng-bind": "skill.name" }
+            %center
+              .skill{ "ng-bind": "skill.name" }
